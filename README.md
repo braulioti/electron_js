@@ -6,7 +6,7 @@ Cruso sobre ElectronJS
 - [x] 1 - Introduction
 - [x] 2 - Hello World
 - [x] 3 - Main and Render Process
-- [ ] 4 - BrowserWindow
+- [x] 4 - BrowserWindow
 - [ ] 5 - Quote Widget
 - [ ] 6 - IPC
 - [ ] 7 - Application Menu
