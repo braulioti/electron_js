@@ -4,7 +4,7 @@ Cruso sobre ElectronJS
 [Codevolution - ElectronJS](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW)
 
 - [x] 1 - Introduction
-- [ ] 2 - Hello World
+- [x] 2 - Hello World
 - [ ] 3 - Main and Render Process
 - [ ] 4 - BrowserWindow
 - [ ] 5 - Quote Widget
