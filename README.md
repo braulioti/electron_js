@@ -7,7 +7,7 @@ Cruso sobre ElectronJS
 - [x] 2 - Hello World
 - [x] 3 - Main and Render Process
 - [x] 4 - BrowserWindow
-- [ ] 5 - Quote Widget
+- [x] 5 - Quote Widget
 - [ ] 6 - IPC
 - [ ] 7 - Application Menu
 - [ ] 8 - Context Menu
